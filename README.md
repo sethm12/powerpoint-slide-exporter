@@ -5,7 +5,9 @@
 
 ## Demo
 
-[Watch the demo on Vimeo](https://vimeo.com/YOUR_VIDEO_ID)
+[![Graph Exporter Demo](https://img.youtube.com/vi/phdhUYuQIuI/maxresdefault.jpg)](https://www.youtube.com/watch?v=phdhUYuQIuI)
+
+> *Click the thumbnail to watch the full demo on YouTube.*
 
 ---
 
